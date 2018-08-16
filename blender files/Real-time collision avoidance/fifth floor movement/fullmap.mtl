@@ -1,0 +1,26 @@
+# Blender MTL File: 'fullmap.blend'
+# Material Count: 2
+
+newmtl fifthfloor
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd /home/udipta/Downloads/fifthfloor.png
+map_d /home/udipta/Downloads/fifthfloor.png
+
+newmtl fifthfloor_NONE
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd /home/udipta/Downloads/fifthfloor.png
+map_d /home/udipta/Downloads/fifthfloor.png
